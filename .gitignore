@@ -30,4 +30,7 @@ yarn-error.log*
 
 # TypeScript
 *.tsbuildinfo
-next-env.d.ts 
+next-env.d.ts
+
+# Additional
+lead-calculator-web/ 
