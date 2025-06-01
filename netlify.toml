@@ -1,5 +1,5 @@
 [build]
-  command = "npm ci && npm run build && npm run export"
+  command = "npm install && npm run build"
   publish = "out"
 
 [build.environment]
@@ -7,10 +7,5 @@
 
 [[redirects]]
   from = "/*"
-  to = "/404.html"
-  status = 404
-
-[[redirects]]
-  from = "/"
   to = "/index.html"
   status = 200 
