@@ -5,8 +5,8 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  assetPrefix: './',
-  basePath: ''
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/lead-calculator-web/' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/lead-calculator-web' : ''
 }
 
 module.exports = nextConfig 
