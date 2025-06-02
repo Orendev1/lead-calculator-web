@@ -1,0 +1,7 @@
+Week num,Affiliate,Box ID,Country,Leads,FTDs,CPA Rate,Total to Pay
+1,Affiliate_1,Box_123,US,25,3,150,450
+1,Affiliate_2,Box_456,UK,30,5,120,600
+1,Affiliate_3,Box_789,CA,20,2,100,200
+2,Affiliate_1,Box_123,US,28,4,150,600
+2,Affiliate_2,Box_456,UK,35,6,120,720
+2,Affiliate_4,Box_999,DE,15,1,80,80 

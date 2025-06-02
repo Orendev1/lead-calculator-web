@@ -1,0 +1,11 @@
+Type,Campaign,Brand,Country,Affiliate,Box,Date,Lead_ID
+LEAD,Campaign_A,Brand_X,US,Affiliate_1,Box_123,2024-01-15,L001
+DEPOSITOR,Campaign_A,Brand_X,US,Affiliate_1,Box_123,2024-01-15,L002
+LEAD,Campaign_B,Brand_Y,UK,Affiliate_2,Box_456,2024-01-16,L003
+DEPOSITOR,Campaign_B,Brand_Y,UK,Affiliate_2,Box_456,2024-01-16,L004
+LEAD,Campaign_A,Brand_X,CA,Affiliate_3,Box_789,2024-01-17,L005
+LEAD,Campaign_C,Brand_Z,AU,Affiliate_1,Box_123,2024-01-18,L006
+DEPOSITOR,Campaign_C,Brand_Z,AU,Affiliate_1,Box_123,2024-01-18,L007
+LEAD,Campaign_B,Brand_Y,DE,Affiliate_4,Box_999,2024-01-19,L008
+test,Campaign_TEST,Brand_TEST,US,Test_Affiliate,Test_Box,2024-01-20,TEST001
+DEPOSITOR,Campaign_A,Brand_X,US,Affiliate_1,Box_123,2024-01-20,L009 
